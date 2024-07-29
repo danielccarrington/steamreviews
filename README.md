@@ -1,6 +1,6 @@
 # Sentiment Analysis of Steam Reviews
 
-Model: [Sentiment Analysis of Steam Reviews.ipynb](<Sentiment Analysis of Steam Reviews.ipynb'>)\
+Model: [Sentiment Analysis of Steam Reviews.ipynb](<Sentiment Analysis of Steam Reviews.ipynb>)\
 Model Card: [Model Card](<Model Card.md>)\
 Data Sheet: [Data Sheet](<Data Sheet.md>)
 
